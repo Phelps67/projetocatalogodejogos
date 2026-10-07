@@ -45,10 +45,12 @@ main{
 #tit{
     color: purple;
     padding-top: 20px;
+    font-size: 50px;
 }
 #subt{
     color: white;
     padding-top: 10px;
+    font-size: 24px;
 }
 #palavra{
     padding-left: 30px;
