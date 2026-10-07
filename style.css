@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hed1 {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 60px;
+}
+
+#nomest {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 30px;
+    padding-left: 80px;
+    padding-right: 400px;
+}
+
+.caixa-botoes {
+    display: flex;
+    gap: 30px;
+}
+
+.but {
+    font-size: 16px;
+    padding: 6px;
+    border-radius: 100px;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(210, 210, 210);
+    background-color: purple;
+    width: 80px;
+}
+#todo{
+    color: purple;
+    background-color: white;
+}
+main{
+    background-color: rgb(28, 28, 28);
+    height: 2000px;
+}
+#tit{
+    color: purple;
+    padding-top: 20px;
+}
+#subt{
+    color: white;
+    padding-top: 10px;
+}
+#palavra{
+    padding-left: 30px;
+}
